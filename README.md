@@ -1,3 +1,4 @@
+
 # 🧬 Phoenix-Omega : Architecture Cognitive à États Exotiques (ACEE)
 
 ![Status](https://img.shields.io/badge/Phase-R%26D%20Th%C3%A9orique-blueviolet)
@@ -45,3 +46,33 @@ graph TD
     F -- Correction --> G[Recombinaison Homologue]
     E --> H[Consensus Cristallin]
     H --> I[AGI Persistante]
+
+```
+
+---
+
+## 📊 Prédictions & Métrologie Comparatives
+
+| Métrique | PHŒNIX v1.0 (Genesis) | PHŒNIX-OMEGA (ACEE) | Gain / Impact |
+| --- | --- | --- | --- |
+| **Gestion du Conflit** | Logique Booléenne | Relaxation Thermodynamique | Résilience aux nuances |
+| **Résilience Data** | Reed-Solomon (Algébrique) | T-RAID (Topologique) | Protection par invariants globaux |
+| **Consensus** | Protocoles Raft / Paxos | Consensus Cristallin (DTC) | Immunité au jitter et latence |
+| **Taux d'Hallucination** | -80% (vs RAG classique) | -98% (Prédiction TDA) | Auto-détection par pic d'énergie |
+
+---
+
+## 🚀 Roadmap de Recherche
+
+* [ ] **Phase 1 : Simulation** - Développement du solveur d'Ising pour graphes sémantiques.
+* [ ] **Phase 2 : Topologie** - Implémentation de la surveillance par Homologie Persistante (Nombres de Betti).
+* [ ] **Phase 3 : Hardware** - Tests d'intégration sur processeurs neuromorphiques (Intel Loihi).
+* [ ] **Phase 4 : Émergence** - Déploiement du premier Cristal Temporel de Consensus sur réseau distribué.
+
+---
+
+## ✍️ Auteur
+
+**Bryan Ouellette** *Chercheur Multidisciplinaire, Analyste des Systèmes Complexes*
+
+```
