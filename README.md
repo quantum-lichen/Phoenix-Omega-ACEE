@@ -74,5 +74,3 @@ graph TD
 ## ✍️ Auteur
 
 **Bryan Ouellette** *Chercheur Multidisciplinaire, Analyste des Systèmes Complexes*
-
-```
