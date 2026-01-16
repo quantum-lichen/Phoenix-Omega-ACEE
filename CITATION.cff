@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ces travaux, merci de les citer comme suit."
+authors:
+  - family-names: "Ouellette"
+    given-names: "Bryan"
+title: "Projet PHŒNIX-OMEGA : Architecture Cognitive à États Exotiques"
+version: 2.0.0
+date-released: 2026-01-16
+url: "https://github.com/BryanOuellette/Phoenix-Omega-ACEE"
+abstract: >-
+  Une analyse multidisciplinaire de la mémoire artificielle persistante utilisant
+  la frustration géométrique, les verres de spin et les cristaux temporels pour
+  créer une infrastructure cognitive résiliente et auto-organisée.
